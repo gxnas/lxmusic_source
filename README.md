@@ -1,6 +1,6 @@
-#LX Music洛雪音乐源
+LX Music洛雪音乐源
 
-##在线导入
+在线导入
 SixYin
 https://raw.githubusercontent.com/pdone/lx-music-source/main/sixyin/latest.js
 
